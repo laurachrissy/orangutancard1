@@ -1,0 +1,25 @@
+        /* add your CSS here */
+        
+        .card {
+            border: 1px solid gray;
+            width: 516px;
+            max-width: 100%;
+            box-shadow: 20px 10px 20px rgba(62, 60, 60, 0.2);
+        }
+        
+        .facts {
+            border: 1px solid gray;
+        }
+        
+        .pic {
+            width: 516px;
+            max-width: 100%;
+        }
+        
+        .firstline {
+            font-style: italic;
+        }
+        
+        .factintro {
+            font-weight: bold;
+        }
